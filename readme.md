@@ -45,7 +45,7 @@ porém é preciso utiliza-lo, pois recentemente foi feita uma atualização no G
 
 8 - ```git branch -M main```
 
-9 - git push -u origin main
+9 - ```git push -u origin main```
 
 Obs* Caso seja a sua primera vez no Git e no GitHub, antes de passar todos os comandos para subir o seu projeto, configure o Git Bash com o seu
 login do GitHub. Para fazer isso basta dar um __clear__ para limpar a tela do terminal e digitar os comandos:
