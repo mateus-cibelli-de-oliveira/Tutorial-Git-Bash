@@ -131,7 +131,7 @@ git branch -d nome-da-branch
 ```
 git branch
 ```
-# INFORMAÇÕES DE COMMIT!
+## INFORMAÇÕES DE COMMIT!
 
 Esse tipo de commit é quando você cria uma nova tarefa!
 ```
