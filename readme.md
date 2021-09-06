@@ -1,6 +1,6 @@
 Meu "pequeno" tutorial de __Git Bash__ para ajudar a galera*
 
-# Pegar um projeto do GitHub e coloca-lo em sua máquina
+# Pegar um projeto do GitHub e coloca-lo em sua máquina!
 
 1 - Dê um git init na sua pasta local onde você quer adicionar a pasta do seu projeto e cole o link do repositório no GitHub HTTPS ou o SSH ao lado do comando git clone. 
 
@@ -15,7 +15,7 @@ e agora dê um ENTER. Pronto!
 
 Para fechar o terminal é só digitar: __exit__
 
-# Inserir um projeto no GitHub a partir da sua máquina local
+# Inserir um projeto no GitHub a partir da sua máquina local!
 
 1 - Primeiro crie um repositório no GitHub clicando no botão verde (New) lá em cima. Não selecione os arquivos Add a README file, Add .gitignore e Choose a license. Estes arquivos podem ser incluídos mais tarde.
 
@@ -77,7 +77,7 @@ Digite os seguintes comandos:
 git push -u origin nome-da-branch
 ```
 
-# Atualizar as alterações do seu projeto para a sua branch já criada
+# Atualizar as alterações do seu projeto para a sua branch já criada!
 
 Obs* Vou dar o mesmo exemplo do nome da branch e do commit só para ficar mais fácil de entender, mas não se esqueça de altera-los depois na hora de criar o seu projeto.
 
@@ -93,7 +93,7 @@ Obs* Vou dar o mesmo exemplo do nome da branch e do commit só para ficar mais f
 
 6 - ```git push -u origin nome-da-branch```
 
-# Atualizar e upar o seu projeto para a branch master
+# Atualizar e upar o seu projeto para a branch master!
 
 1 - Todo projeto abre pela branch padrão (master), então neste caso é só começar pelo __merge__, mas se o seu projeto estiver iniciado em outra branch, então dê um:
 
@@ -131,7 +131,7 @@ git branch -d nome-da-branch
 ```
 git branch
 ```
-# Informações importantes
+# Informações importantes!
 
 1 - É necessário instalar o yarn no seu projeto para proseguir no projeto Hunting da Thrower:
 ```
@@ -147,7 +147,7 @@ yarn eslint --init
 ```
 4 - Agora responda as perguntas para direcionar a forma que ele irá funcionar no seu projeto.
 
-# INFORMAÇÕES DE COMMIT
+# INFORMAÇÕES DE COMMIT!
 
 Esse tipo de commit é quando você cria uma nova tarefa!
 ```
