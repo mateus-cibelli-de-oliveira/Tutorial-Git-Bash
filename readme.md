@@ -131,22 +131,6 @@ git branch -d nome-da-branch
 ```
 git branch
 ```
-# Informações importantes!
-
-1 - É necessário instalar o yarn no seu projeto para proseguir no projeto Hunting da Thrower:
-```
-yarn install
-```
-2 - Depois de instalar o yarn, você precisará instalar o lint. Então digite:
-```
-yarn add eslint -D
-```
-3 - Agora podemos configurar o ESlint, para isso digite:
-```
-yarn eslint --init
-```
-4 - Agora responda as perguntas para direcionar a forma que ele irá funcionar no seu projeto.
-
 # INFORMAÇÕES DE COMMIT!
 
 Esse tipo de commit é quando você cria uma nova tarefa!
